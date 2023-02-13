@@ -7,7 +7,7 @@
       "name": "Luis-Fernando-Molina"
     },
     "dependencies": {
-      "debug": "^4.3.1",
+      "debug": "^4.3.4",
       "minimist": "^1.2.5",
       "module-alias": "^2.2.2",
       "ms": "^2.1.2",
