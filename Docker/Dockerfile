@@ -1,4 +1,4 @@
-FROM python:3-slim
+FROM python:3.13.0b3-slim
 ENV NODE_VERSION=node_16.x
 ENV PYTHONUNBUFFERED 1
 RUN apt-get update \
